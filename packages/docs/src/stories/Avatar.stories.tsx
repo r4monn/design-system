@@ -8,6 +8,13 @@ export default {
   args: {
     src: 'https://github.com/r4monn.png',
     alt: 'Ramon Dias',
+  },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text'
+      }
+    }
   }
 } as Meta<AvatarProps>
 
