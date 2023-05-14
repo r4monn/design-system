@@ -6,7 +6,7 @@ export default {
   component: Box,
   tags: ['autodocs'],
   args: {
-    children: <Text>Testando o elemento Text</Text>
+    children: <Text>Testando o elemento Box</Text>
   },
   argTypes: {
     children: {
