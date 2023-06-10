@@ -1,5 +1,11 @@
 # @flawless-ui/react
 
+## 2.0.2
+
+### Patch Changes
+
+- components: some fixes to components.
+
 ## 2.0.1
 
 ### Patch Changes

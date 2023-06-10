@@ -8,7 +8,7 @@ export interface MultiStepProps {
 export function MultiStep({ size, currentStep = 1}: MultiStepProps) {
   return (
     <MultiStepContainer>
-      <Label>Label {currentStep} de {size}</Label>
+      <Label>Passo {currentStep} de {size}</Label>
 
       <Steps css={{ '--steps-size': size }}>
         {Array.from({ length: size }, (_, i) => i + 1).map(step => {
