@@ -1,0 +1,4 @@
+import{e as n,a as i,B as c}from"./index-05d018e8.js";import{j as o}from"./index-c05978df.js";import"./extends-98964cd2.js";import"./_commonjsHelpers-725317a4.js";const g={title:"Form/Tooltip",component:n,tags:["autodocs"],args:{children:o(i,{children:"Hover me"}),content:"This is a tooltip"},argTypes:{children:{control:{type:"null"}}},decorators:[a=>o(c,{css:{display:"flex",alignItems:"center",justifyContent:"center",padding:"$20",backgroundColor:"$gray500"},children:a()})]},r={args:{}};var t,e,s;r.parameters={...r.parameters,docs:{...(t=r.parameters)==null?void 0:t.docs,source:{originalSource:`{
+  args: {}
+}`,...(s=(e=r.parameters)==null?void 0:e.docs)==null?void 0:s.source}}};const u=["Primary"];export{r as Primary,u as __namedExportsOrder,g as default};
+//# sourceMappingURL=Tooltip.stories-b9639926.js.map
